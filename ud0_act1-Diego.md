@@ -63,3 +63,38 @@ mi conclusion es que el navegador va a nterpretar lo que hay en el documento dep
     </pais>
 </mundo>
 ```
+
+# Ejercicio 4
+```
+<biblioteca>
+    <libro>
+        <titulo>Falco</titulo>
+        <formato>En papel</formato>
+        <isbn>978842041968</isbn>
+        <autor>ARTURO PEREZ REVERTE</autor>
+        <paginas>269</paginas>
+        <editorial>ALFAGUARA</editorial>
+        <idioma>CASTELLÀ</idioma>
+    </libro>
+    <libro>
+        <titulo>TODO ALATRISTE</titulo>
+        <formato>EBOOK</formato>
+        <isbn>9788420425528</isbn>
+        <autor>ARTURO PEREZ REVERTE</autor>
+        <editorial>ALFAGUARA</editorial>
+        <idioma>CASTELLÀ</idioma>
+    </libro>
+    <libro>
+        <titulo>HOMBRES BUENOS</titulo>
+        <formato>En papel</formato>
+        <isbn>9788466329804</isbn>
+        <autor>ARTURO PEREZ REVERTE</autor>
+        <editorial>PUNTO DE LECTURA</editorial>
+        <año>2024</año>
+        <sinopsis>La heróica aventura de quienes se atrevieron a cambiar el mundo con libros. 
+            En tiempos de oscuridad siempre hubo hombres buenos que lucharon para llevar las luces y el progreso. 
+            Y otros que procuraron impedirlo.
+        </sinopsis>
+    </libro>
+</biblioteca>
+```
