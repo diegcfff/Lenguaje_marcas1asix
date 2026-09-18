@@ -21,6 +21,45 @@ mi conclusion es que el navegador va a nterpretar lo que hay en el documento dep
         <unidad>Seguridad en la base de datos</unidad>
         </contenido>
     </modulo>
+
+<modulo>
+    <modulo><titulo>Programacion</titulo>
+      <contenido>
+        <unidad>Introducción a la programacion</unidad>
+        <unidad>Java</unidad>
+        <unidad>Python</unidad>
+        </contenido>
+    </modulo>
+
+<modulo>
+    <modulo><titulo>Desarrollo backend y APIs</titulo>
+      <contenido>
+        <unidad>PHP</unidad>
+        <unidad>Node.js</unidad>
+        <unidad>Rest</unidad>
+        </contenido>
+    </modulo>
 </dam>
 
+```
+
+# Ejercicio 3
+```
+<mundo>
+    <pais>
+        <nombre>España</nombre>
+        <capital>Madrid</capital>
+        <continente>Europa</continente>
+    </pais>
+    <pais>
+        <nombre>Argentina</nombre>
+        <capital>Buenos Aires</capital>
+        <continente>América</continente>
+    </pais>
+    <pais>
+        <nombre>Japón</nombre>
+        <capital>Tokio</capital>
+        <continente>Asia</continente>
+    </pais>
+</mundo>
 ```
